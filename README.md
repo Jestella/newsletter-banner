@@ -1,7 +1,7 @@
 # Newsletter Banner 
 <br/>
 
-## Figma Design
+## UI Design
 You can view the UI design for this component on Figma:
 
 <a href="https://www.figma.com/design/W3xkvhDtj7QRix3zUpf5bJ/Newsletter-Banner?node-id=0-1&t=YTv8uEFC4zCpHhIO-1" target="_blank" rel="noopener noreferrer">View Figma Design</a>
