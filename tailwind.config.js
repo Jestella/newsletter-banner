@@ -4,11 +4,20 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#f0f6f7",
+        primary: "#eff5f7",
         accent: "#01C394",
         black: "#031317",
-        gray: "#656565",
       },
+      fontFamily: {
+        sans: ['"Inter var", sans-serif'],
+      },
+      fontSize: {
+        s: "26px",
+      },
+    },
+    screens: {
+      sm: "640px",
+      md: "768px",
     },
   },
   plugins: [],
